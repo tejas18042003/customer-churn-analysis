@@ -5,7 +5,7 @@ Customer churn is a critical business problem where organizations aim to identif
 
 This project analyzes customer behavior data and builds an interpretable machine learning model to predict churn. The focus is on the **complete data science lifecycle**: data cleaning, preprocessing, exploratory data analysis, modeling, evaluation, and business interpretation.
 
-Final insights and recommendations shown as a separate notebook in notebooks
+# Final insights and recommendations shown as a separate notebook in notebooks
 
 ---
 
